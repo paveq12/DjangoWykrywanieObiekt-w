@@ -1,0 +1,1 @@
+# DjangoWykrywanieObiekt-w
